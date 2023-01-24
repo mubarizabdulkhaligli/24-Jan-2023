@@ -1,0 +1,14 @@
+/Users/mubarizabdulkhaligli/Desktop/examples/examples/examples/bin/Debug/netcoreapp3.1/examples
+/Users/mubarizabdulkhaligli/Desktop/examples/examples/examples/bin/Debug/netcoreapp3.1/examples.deps.json
+/Users/mubarizabdulkhaligli/Desktop/examples/examples/examples/bin/Debug/netcoreapp3.1/examples.runtimeconfig.json
+/Users/mubarizabdulkhaligli/Desktop/examples/examples/examples/bin/Debug/netcoreapp3.1/examples.runtimeconfig.dev.json
+/Users/mubarizabdulkhaligli/Desktop/examples/examples/examples/bin/Debug/netcoreapp3.1/examples.dll
+/Users/mubarizabdulkhaligli/Desktop/examples/examples/examples/bin/Debug/netcoreapp3.1/examples.pdb
+/Users/mubarizabdulkhaligli/Desktop/examples/examples/examples/obj/Debug/netcoreapp3.1/examples.csproj.AssemblyReference.cache
+/Users/mubarizabdulkhaligli/Desktop/examples/examples/examples/obj/Debug/netcoreapp3.1/examples.GeneratedMSBuildEditorConfig.editorconfig
+/Users/mubarizabdulkhaligli/Desktop/examples/examples/examples/obj/Debug/netcoreapp3.1/examples.AssemblyInfoInputs.cache
+/Users/mubarizabdulkhaligli/Desktop/examples/examples/examples/obj/Debug/netcoreapp3.1/examples.AssemblyInfo.cs
+/Users/mubarizabdulkhaligli/Desktop/examples/examples/examples/obj/Debug/netcoreapp3.1/examples.csproj.CoreCompileInputs.cache
+/Users/mubarizabdulkhaligli/Desktop/examples/examples/examples/obj/Debug/netcoreapp3.1/examples.dll
+/Users/mubarizabdulkhaligli/Desktop/examples/examples/examples/obj/Debug/netcoreapp3.1/examples.pdb
+/Users/mubarizabdulkhaligli/Desktop/examples/examples/examples/obj/Debug/netcoreapp3.1/examples.genruntimeconfig.cache
